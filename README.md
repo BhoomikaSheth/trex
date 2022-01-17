@@ -1,3 +1,2 @@
-# trex
-
-my trex game clone using p5.ply lib
+# PROC18-V3ColorfullTrex
+Colorful Trex
